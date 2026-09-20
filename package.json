@@ -1,0 +1,1 @@
+{"name":"gold-beast-bot","version":"1.0.0","main":"app.js","scripts":{"start":"node app.js"},"dependencies":{"telegraf":"^4.15.0","express":"^4.18.2"}}
